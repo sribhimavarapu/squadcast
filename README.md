@@ -1,0 +1,2 @@
+# squadcast
+Frontend assignment
